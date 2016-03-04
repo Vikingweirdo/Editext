@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Editext.iml" filepath="$PROJECT_DIR$/Editext.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mygame/Mygame.iml" filepath="$PROJECT_DIR$/Mygame/Mygame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/caculater/caculater.iml" filepath="$PROJECT_DIR$/caculater/caculater.iml" />
+      <module fileurl="file://$PROJECT_DIR$/camaer/camaer.iml" filepath="$PROJECT_DIR$/camaer/camaer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/checkbox/checkbox.iml" filepath="$PROJECT_DIR$/checkbox/checkbox.iml" />
+      <module fileurl="file://$PROJECT_DIR$/colorid/colorid.iml" filepath="$PROJECT_DIR$/colorid/colorid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/firstgame/firstgame.iml" filepath="$PROJECT_DIR$/firstgame/firstgame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/game/game.iml" filepath="$PROJECT_DIR$/game/game.iml" />
+      <module fileurl="file://$PROJECT_DIR$/internet/internet.iml" filepath="$PROJECT_DIR$/internet/internet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myview/myview.iml" filepath="$PROJECT_DIR$/myview/myview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/password/password.iml" filepath="$PROJECT_DIR$/password/password.iml" />
+      <module fileurl="file://$PROJECT_DIR$/radiobutton/radiobutton.iml" filepath="$PROJECT_DIR$/radiobutton/radiobutton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/radiolisten/radiolisten.iml" filepath="$PROJECT_DIR$/radiolisten/radiolisten.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spinner/spinner.iml" filepath="$PROJECT_DIR$/spinner/spinner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/textcamera/textcamera.iml" filepath="$PROJECT_DIR$/textcamera/textcamera.iml" />
+      <module fileurl="file://$PROJECT_DIR$/thefirstonclikproject/thefirstonclikproject.iml" filepath="$PROJECT_DIR$/thefirstonclikproject/thefirstonclikproject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/timepicker/timepicker.iml" filepath="$PROJECT_DIR$/timepicker/timepicker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/view/view.iml" filepath="$PROJECT_DIR$/view/view.iml" />
+    </modules>
+  </component>
+</project>

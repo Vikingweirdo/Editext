@@ -1,0 +1,73 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/Tex1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="选择下列选项"
+        android:textSize="20px" />
+
+    <RadioGroup
+        android:id="@+id/Radio1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:checkedButton = "@+id/RadioBut1"
+        >
+
+        <RadioButton
+            android:id="@+id/RadioBut1"
+            android:layout_height="fill_parent"
+            android:layout_width="wrap_content"
+            android:text="男"
+            android:textSize="15px"/>
+
+        <RadioButton
+            android:layout_height="fill_parent"
+            android:layout_width="wrap_content"
+            android:id="@+id/RadioBut2"
+            android:text="女"
+            android:textSize="15px"/>
+
+    </RadioGroup>
+    <TextView
+        android:id="@+id/Tex2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="选择下列选项"
+        android:textSize="20px" />
+
+    <RadioGroup
+        android:id="@+id/Radio2"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:checkedButton = "@+id/RadioBut3"
+        >
+
+        <RadioButton
+            android:id="@+id/RadioBut3"
+            android:layout_height="fill_parent"
+            android:layout_width="wrap_content"
+            android:text="男"
+            android:textSize="15px"/>
+
+        <RadioButton
+            android:layout_height="fill_parent"
+            android:layout_width="wrap_content"
+            android:id="@+id/RadioBut4"
+            android:text="女"
+            android:textSize="15px"/>
+
+    </RadioGroup>
+
+</LinearLayout>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyView</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="send_name">send the intend
+    </string>
+    <string name="receive_name">receive the intend</string>
+</resources>

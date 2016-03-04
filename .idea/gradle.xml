@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="E:\android-studio\gradle\gradle-2.2.1" />
+        <option name="gradleJvm" value="1.8" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Mygame" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/caculater" />
+            <option value="$PROJECT_DIR$/camaer" />
+            <option value="$PROJECT_DIR$/checkbox" />
+            <option value="$PROJECT_DIR$/colorid" />
+            <option value="$PROJECT_DIR$/firstgame" />
+            <option value="$PROJECT_DIR$/game" />
+            <option value="$PROJECT_DIR$/internet" />
+            <option value="$PROJECT_DIR$/myview" />
+            <option value="$PROJECT_DIR$/password" />
+            <option value="$PROJECT_DIR$/radiobutton" />
+            <option value="$PROJECT_DIR$/radiolisten" />
+            <option value="$PROJECT_DIR$/spinner" />
+            <option value="$PROJECT_DIR$/textcamera" />
+            <option value="$PROJECT_DIR$/thefirstonclikproject" />
+            <option value="$PROJECT_DIR$/timepicker" />
+            <option value="$PROJECT_DIR$/view" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
